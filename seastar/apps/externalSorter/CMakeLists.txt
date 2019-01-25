@@ -1,5 +1,8 @@
 seastar_add_app (externalSorter
   SOURCES
-  main.cc)
+  main.cc
+  programArgumentParser.cc
+  programArgumentParser.h
+)
 
 
